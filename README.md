@@ -8,3 +8,5 @@ I'm currently drafting notebooks on Perceptual Vector Quantization:
 You can view the notebook directly in [GitHub](https://github.com/luctrudeau/DaalaNotebooks/blob/master/PVQ/PVQ.ipynb) or in [nbviewer](http://nbviewer.ipython.org/github/luctrudeau/DaalaNotebooks/blob/master/PVQ/PVQ.ipynb#). However, you will need [iPython](http://ipython.org/notebook.html) in order to modify it.
 
 Constructive critisms and improvements are welcome.
+
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/luctrudeau/DaalaNotebooks)

@@ -5,6 +5,8 @@ A Pragmatic Introduction to Daala:
   * [Perceptual Vector Quantization (part 1)](https://github.com/luctrudeau/DaalaNotebooks/blob/master/PVQ/PVQ.ipynb) 
   * [Perceptual Vector Quantization (part 2)](https://github.com/luctrudeau/DaalaNotebooks/blob/master/PVQ/PVQ%202.ipynb)
   * [DCT Fundamentals](https://github.com/luctrudeau/DaalaNotebooks/blob/master/DCT/DCT%20fundamentals.ipynb)
+  * Chroma from Luma (CfL)
+    * [DCT Domain Subsampling](https://github.com/luctrudeau/DaalaNotebooks/blob/master/CFL/DCT-Domain%20Subsampling.ipynb)
 
 You can view the notebook directly in GitHub or in [nbviewer](http://nbviewer.ipython.org/github/luctrudeau/DaalaNotebooks/tree/master/). However, you will need [iPython](http://ipython.org/notebook.html) in order to modify it.
 
